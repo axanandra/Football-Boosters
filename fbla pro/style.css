@@ -1,0 +1,27 @@
+header{
+background-color:#a9a9a9 ;
+padding: 20px;
+}
+body{
+    text-align: center;
+    background-color:aliceblue;
+
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul{
+  background-color: #df0100;
+  overflow: hidden;
+  
+}
+li{
+    display:inline;
+    float:left
+    }
+li a {
+  display: block;
+  padding: 8px;
+  color: white;
+
+    }
